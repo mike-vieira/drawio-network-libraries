@@ -32,7 +32,8 @@ Coleção de bibliotecas para desenhar e documentar topologias de rede no [Draw.
 - Edição genérica para estudo e documentação de redes, sem diagramas operacionais, endereços de clientes ou nomes de ambientes reais.
 - Os nomes das bibliotecas e as tags de identificação foram ajustados. Os gráficos dos ícones foram preservados.
 - Os arquivos clássicos utilizam símbolos Cisco nativos do diagrams.net e precisam do suporte correspondente na aplicação.
-- **Aviso de direitos:** figuras, marcas e símbolos de fabricantes podem estar protegidos por direitos de terceiros. A disponibilização deste projeto não concede licença de redistribuição nem autorização para uso comercial dos ícones; verifique os direitos aplicáveis antes de redistribuir.
+- **Origem verificada:** os 29 ícones 3D são ilustrações genéricas com fontes SVG no pacote original do projeto; os PNG embutidos foram comparados e 29/29 corresponderam exatamente. Os oito ícones clássicos de equipamentos referenciam formas nativas Cisco do editor, sem embutir imagens oficiais de terceiros.
+- **Condições de uso:** respeite as regras aplicáveis aos símbolos Cisco (uso permitido, sem alterar seus desenhos), às formas do Draw.io e a quaisquer direitos de terceiros. Não existe vínculo oficial com fabricantes. Leia a [verificação de proveniência e direitos](PROVENIENCIA-E-DIREITOS.md) antes de redistribuir os arquivos.
 - Não se trata de uma coleção oficial de fabricantes.
 
 **Validação:** estrutura XML (`mxlibrary`) e modelos internos verificados. A importação pela interface do Draw.io deve ser testada em ambiente limpo.
